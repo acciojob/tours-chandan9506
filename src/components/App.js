@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Tours from './Tours';
-import Loading from './Loading';
+import Loading from './Loadinng';
 import "../styles/App.css"
 
 const App = () => {
